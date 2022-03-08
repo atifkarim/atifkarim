@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/md-atif-bin-karim/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=atifkarim&style=flat-square&color=blue" alt=""></p>
+
+
 <!--
 **atifkarim/atifkarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
