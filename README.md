@@ -43,6 +43,21 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
+<!-- github status -->
+---
+
+### :fire: My Stats :
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=atifkarim&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atifkarim)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atifkarim&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atifkarim&count_private=true&show_icons=true&hide_border=true&layout=compact&langs_count=20&hide=jupyter-notebook"/>
+</p>
+
 <!--
 **atifkarim/atifkarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
