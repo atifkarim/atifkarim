@@ -17,12 +17,11 @@
 
 ### :man_technologist: About Me :
 
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
--a
--b
+- Problem Solver -> by profession Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- <img src="https://media.giphy.com/media/r8ngQvpMkeWpKkMdvI/giphy.gif" width="20"> Hobby: Photography, Cooking
+- Language: English(C2), German(B1), Bengali(Native)
 
 <!-- Language & Tools -->
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
