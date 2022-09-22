@@ -20,8 +20,8 @@ It's Atif from Germany, would like to present my motivation, interests and skill
 
 ### :man_technologist: Minutes about me
 
-- Problem Solver -> by profession Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- <img src="https://media.giphy.com/media/r8ngQvpMkeWpKkMdvI/giphy.gif" width="20"> Hobby: Photography, Cooking
+- Problem Solver <img src="https://media.giphy.com/media/8s0OiUrEPVGz20b0NW/giphy.gif" height="17" width="20"> -> by profession Software Developer
+- Hobby <img src="https://media.giphy.com/media/r8ngQvpMkeWpKkMdvI/giphy.gif" height="17" width="20"> Photography, Cooking
 - Language: English(C2), German(B1), Bengali(Native)
 
 <!-- Language & Tools -->
