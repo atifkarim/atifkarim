@@ -1,12 +1,12 @@
 ### Hi visitor 👋
-It's Atif from Germany, would like to present my motivation, interests and skillset. If you have any query, feedback regarding any of my [work](https://github.com/atifkarim?tab=repositories) please place a issue. For personal contact take a look here
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height ="50" width="50"/></p>
 
 <!-- LinkedIn and Xing profile -->
 
 <p align="center">
-<a href="https://www.linkedin.com/in/md-atif-bin-karim/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> <a href="https://www.xing.com/profile/MDATIFBIN_KARIM/cv"><img src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white" alt="Xing Badge"></a>
+  <a href="https://www.linkedin.com/in/md-atif-bin-karim/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://www.xing.com/profile/MDATIFBIN_KARIM/cv"><img src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white" alt="Xing Badge"></a>
 </p>
 
 <!-- profile view counter -->
@@ -14,6 +14,8 @@ It's Atif from Germany, would like to present my motivation, interests and skill
 
 <!-- another gif -->
 <!-- <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p> -->
+
+It's Atif from Germany, would like to present my motivation, interests and skillset. If you have any query, feedback regarding any of my [work](https://github.com/atifkarim?tab=repositories) please place a issue. For personal contact take a look here
 
 <!-- About me -->
 ---
