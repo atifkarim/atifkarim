@@ -3,23 +3,21 @@
 It's Atif from Germany, would like to present my motivation, interests and skillset. If you have any query, feedback regarding any of my [work](https://github.com/atifkarim?tab=repositories) please place a issue. For personal contact take a look here
 
 <!-- profile view counter -->
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=atifkarim&style=flat-square&color=blue" alt=""></p>
 
-<!-- another gif -->
-<!-- <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p> -->
-
 <!-- About me -->
----
 
 ### :man_technologist: Minutes about me
 
 - Inviting to visit my [Portfolio](https://atifkarim.github.io/)
 - Full time Father and problem solver <img src="https://media.giphy.com/media/8s0OiUrEPVGz20b0NW/giphy.gif" height="17" width="20">
 - Software Developer by profession <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="17" width="20">
-- Interest to discuss on C++, Python and Java
+- Interested to discuss on C++, Python and Java
 - English(C2), German(B1), Bengali(Native)
 - Connect in <a href="https://www.linkedin.com/in/md-atif-bin-karim/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="20" width="80"></a>
 <a href="https://www.xing.com/profile/MDATIFBIN_KARIM/cv"><img src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white" alt="Xing Badge" height="20" width="80"></a>
+:mailto:user@example.com>
 
 <!-- Language & Tools -->
 ---
@@ -47,27 +45,8 @@ It's Atif from Germany, would like to present my motivation, interests and skill
 
 ### :fire: My Stats :
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=atifkarim&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
-
-<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atifkarim)](https://github.com/anuraghazra/github-readme-stats) -->
-
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atifkarim&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atifkarim&count_private=true&show_icons=true&hide_border=true&layout=compact&langs_count=20&hide=jupyter-notebook"/>
 </p>
-
-<!--
-**atifkarim/atifkarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
