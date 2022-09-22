@@ -1,4 +1,5 @@
-<!-- ### Hi there 👋 -->
+### Hi visitor 👋
+It's Atif from Germany, would like to present my motivation, interests and skillset. If you have any query, feedback regarding any of my [work](https://github.com/atifkarim?tab=repositories) please place a issue. For personal contact take a look here
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
@@ -53,7 +54,7 @@
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atifkarim&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atifkarim&count_private=true&show_icons=true&hide_border=true&layout=compact&langs_count=20&hide=jupyter-notebook"/>
 </p>
 
