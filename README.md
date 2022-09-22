@@ -3,6 +3,8 @@ It's Atif from Germany, would like to present my motivation, interests and skill
 
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
+<!-- LinkedIn and Xing profile -->
+
 <p align="center">
 <a href="https://www.linkedin.com/in/md-atif-bin-karim/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> <a href="https://www.xing.com/profile/MDATIFBIN_KARIM/cv"><img src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white" alt="Xing Badge"></a>
 </p>
@@ -11,12 +13,12 @@ It's Atif from Germany, would like to present my motivation, interests and skill
 <p align="center"><img src="https://komarev.com/ghpvc/?username=atifkarim&style=flat-square&color=blue" alt=""></p>
 
 <!-- another gif -->
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<!-- <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p> -->
 
 <!-- About me -->
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: Minutes about me
 
 - Problem Solver -> by profession Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - <img src="https://media.giphy.com/media/r8ngQvpMkeWpKkMdvI/giphy.gif" width="20"> Hobby: Photography, Cooking
