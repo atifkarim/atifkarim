@@ -17,7 +17,7 @@ It's Atif from Germany, would like to present my motivation, interests and skill
 - English(C2), German(B1), Bengali(Native)
 - Connect in <a href="https://www.linkedin.com/in/md-atif-bin-karim/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="20" width="80"></a>
 <a href="https://www.xing.com/profile/MDATIFBIN_KARIM/cv"><img src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white" alt="Xing Badge" height="20" width="80"></a>
-- Contact via <a href="mailto:atif0902082@gmail.com"><img src="https://media.giphy.com/media/aOften89vRbG/giphy.gif" height="30" width="20"></a>
+- Contact via <a href="mailto:atif0902082@gmail.com"><img src="https://media.giphy.com/media/aOften89vRbG/giphy.gif" height="22" width="20"></a>
 
 <!-- Language & Tools -->
 ---
