@@ -11,7 +11,6 @@ It's Atif from Germany, would like to present my motivation, interests and skill
 ### :man_technologist: Minutes about me
 
 - Inviting to visit my [Portfolio](https://atifkarim.github.io/)
-- Full time Father and problem solver <img src="https://media.giphy.com/media/8s0OiUrEPVGz20b0NW/giphy.gif" height="17" width="20">
 - Software Developer by profession <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="17" width="20">
 - Interested to discuss on C++, Python and Java
 - English(C2), German(B1), Bengali(Native)
